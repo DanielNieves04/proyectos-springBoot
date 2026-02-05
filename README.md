@@ -1,5 +1,5 @@
 # Proyectos SpringBoot
-Este repositorio contiene diferentes proyectos desarrollados con springboot, diseñado para reforzar mis conocimientos.
+Este repositorio contiene diferentes proyectos desarrollados con java / springboot / maven, diseñado para afianzar mis conocimientos.
 
 Cada proyecto está estructurado para practicar:
 
